@@ -34,3 +34,4 @@ This repo contains a solution for [xpand-it Spark2 Recruitment Challenge](https:
   
 - Testing was not implemented.
   
+- When writing a dataframe to a file the default partition parameters are used, thus resulting in multiple files.
