@@ -18,7 +18,7 @@ This repo contains a solution for [xpand-it Spark2 Recruitment Challenge](https:
 - Part 1:
   - Non Numeric Row Values in Sentiment Polarity Column are filtered out
 - Part 2:
-  - Filter out the ratings which dont meet the criteria first then order them resulting in less computation
+  - Filter out the ratings which don't meet the criteria first then order them resulting in less computation
 - Part 3:
   - If column "Size" contains a K or k is the value is read as kilobyte, thus the value is divided by 1024.
   - Otherwise just removes the char and cast the value to float.
