@@ -32,3 +32,5 @@ This repo contains a solution for [xpand-it Spark2 Recruitment Challenge](https:
   - Join the DataFrames from Part 1 and Part 3 using "App" Column
   - explode() function to make new rows with elements inside the list in column "Genres".
   
+- Testing was not implemented.
+  
